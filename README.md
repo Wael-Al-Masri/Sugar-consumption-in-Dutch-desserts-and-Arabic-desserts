@@ -24,3 +24,5 @@ This class has 5 functions:
 And at the end of this class, we have a function where it loops through the founded sugar and unify the measuring unites used, calculate the amount of sugar in the different sweeteners.
 - Last Class is ingredients_cleaner:
 This class will loop through the final founded sugar list and clean the content form punctuation and brackets. And sum all the amount of sugar in the recipe in order to be compared.
+
+P.S: The database that have been shared, is the final result after processing both databases
